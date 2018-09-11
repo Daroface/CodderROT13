@@ -1,0 +1,4 @@
+1. Stworzenie GUI aplikacji, dodanie obu bibliotek DLL, wykrywanie w¹tków oraz mo¿liwoœæ rêcznego ustalenia ich iloœci.
+2. Implementacja funkcji do szyfrowania dla biblioteki DLL pisanej w C oraz wywo³ywanie jej na w¹tkach.
+3. Poprawienie struktury katalogów.
+4. Implementacja funkcji do szyfrowania dla biblioteki DLL pisanej w ASM oraz wywo³ywanie jej na w¹tkach.
